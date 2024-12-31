@@ -390,7 +390,7 @@ html {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	grid-template-rows: repeat(2, 1fr);
-	row-gap: 50px;
+	row-gap: 30px;
 	column-gap: 30px;
 	img {
 		width: 100%;
